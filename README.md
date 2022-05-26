@@ -11,9 +11,19 @@ It is divided in two further tasks that both explore the building of a supervise
 + A simple regression task, with a 1 dimensional target function done on a ad-hoc dataset
 + A simple classification task done on the FashionMNIST dataset
 
+
+<p float="left">
+  <img src="Images/Regr_train.png" width="400" />
+  <img src="Images/Regr_test.png"  width="400" /> 
+</p>
+
 ## Homework 2 (WIP)🚧🚧🚧🚧🚧🚧🚧🚧
 The main objective was to explore unsupervised learning tecniques in pytorch, such as the development of an Autoencoder. The dataset used is still FashionMNIST.
 The notebook also explores the latent space organization, the possibility of coupling autoencoders and supervised learning and the development of a variational autoencoder.
+
+<p float="left">
+  <img src="Images/TSNE_autoenc.png" width="600" />
+</p>
 
 ## Homework 3 (WIP)🚧🚧🚧🚧🚧🚧🚧🚧
 Development of a reinforcement learning algorithm.
